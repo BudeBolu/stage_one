@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: Inter, sans-serif;
+    text-align: center;
+    background-color: #F9E0DA;
+}
+h1{
+    color: #611D0F
+}
+.profile{
+    margin: 50px;
+}
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
+.info{
+    margin: 20px;
+}
+a {
+    color: #F9E0DA;
+    text-decoration: none;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 14px 30px;
+    background-color: #611D0F;
+}
+a:hover{
+    text-decoration: underline;
+}
